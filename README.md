@@ -17,8 +17,8 @@ BART 및 BERTSUM 사용방법입니다.
 
   1. bertsum_train.ipynb: BERTSUM 학습
   2. create_dataset.ipynb: 데이터셋 생성
-  3-1. bart_base.ipynb: BART 학습 및 평가
-  3-2. bart_ppsd.ipynb: 제안방안 학습 및 평가
+  3. bart_base.ipynb: BART 학습 및 평가
+  4. bart_ppsd.ipynb: 제안방안 학습 및 평가
 
 ### 코드 수정
 * modeling_bart.py에서 method option 검색
